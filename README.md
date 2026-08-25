@@ -36,6 +36,27 @@ The platform includes capabilities for:
 
 The product is designed to move beyond a single score by showing what is affecting performance, why it matters, and what organizations can do next.
 
+## Selected Product Experience
+
+The following views are from the MarketingStride product design prototype and illustrate selected capabilities and customer experiences. Production application implementation is maintained privately.
+
+### Website Audit
+
+The Website Audit brings site-level evaluation into a single experience, combining an overall AI Findability score, five evaluation dimensions, and prioritized site findings.
+
+![MarketingStride Website Audit overview](website-audit-overview.png)
+
+The audit extends from the site-level view into detailed analysis of individual pages, connecting evaluation results with key findings and implementation assets so teams can move from diagnosis to action.
+
+![MarketingStride Website Audit detail](website-audit-detail.png)
+
+### Competitor Website Audit
+
+Competitor Website Audits apply the same evaluation approach to competitive digital experiences, helping identify relative strengths, content gaps, and opportunities that may not be visible when evaluating a website in isolation.
+
+![MarketingStride Competitor Website Audit](competitor-website-audit.png)
+
+
 ## AI-Native Product Development
 
 MarketingStride has also served as a practical proving ground for a different way of building and leading technology products.
